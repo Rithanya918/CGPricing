@@ -1,0 +1,20 @@
+[theme]
+# Primary color (Vibrant Red - Kept for buttons)
+primaryColor = "#a32a2a" 
+# Main background color (New "Redding" Tone)
+backgroundColor = "#a32a2a" 
+# Secondary background color (Using the deep maroon for contrast on other elements)
+secondaryBackgroundColor = "#911717"
+# Text color (White)
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[server]
+headless = true
+port = 7860
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false
