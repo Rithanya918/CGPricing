@@ -1,6 +1,8 @@
 # Continental & Global Services: AI-Driven Dynamic Pricing Engine
 Making pricing optimization intelligent, data-driven, and profitable
 
+## See Detail.md file for detailed overview of the project
+
 ![Dashboard Overview](https://github.com/user-attachments/assets/2fd36442-6a61-40b4-88a3-bc8285a36ccc))
 
 ## Background
