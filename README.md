@@ -106,32 +106,6 @@ The "PricingIQ" Dynamic Pricing Engine is an AI-powered system that uses machine
 6. Deployment: Real-time inference via API
 ```
 
-## Installation & Setup
-
-### Prerequisites
-```bash
-Python 3.8+
-pip (Python package manager)
-Virtual environment (recommended)
-```
-
-### Quick Start
-```bash
-# Clone repository
-git clone https://github.com/your-org/cg-pricing-engine.git
-cd cg-pricing-engine
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run application
-streamlit run streamlit_app_complete.py
-```
-
 ## Technology Stack
 
 ### Core Technologies
